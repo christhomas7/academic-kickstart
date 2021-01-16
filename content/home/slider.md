@@ -17,14 +17,14 @@ height = "400px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "spm1d"
-  content = "Statistical Parametric Mapping and waveform analysis"
+  title = "strength and power"
+  content = "assessment, intrpretation, intervention"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "#404040"  # An HTML color value. Optional
-  overlay_img = "slider/spm1d.png"  # relative to `static/img/`
+  overlay_img = "slider/strength_power.png"  # relative to `static/img/`
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   cta_label = "project details"
-  cta_url = "/project/spm1d/"
+  cta_url = "/project/strength_power/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
 
@@ -37,53 +37,40 @@ height = "400px"
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "knee biomechanics"
+  title = "change of direction"
   content = "ACL injury, sidestepping, neuromuscular risk factors"
   align = "center"
   overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "slider/knee.png"  # relative to `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-  cta_label = "project details"
-  cta_url = "/project/knee/"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-
-
-[[item]]
-  title = "training load"
-  content = "Integrating biomechanics into training load monitoring"
-  align = "center"
-  overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "slider/grf_predict.png"  # relative to `static/img/` folder.
+  overlay_img = "slider/cod.png"  # relative to `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   cta_label = "project details"
-  cta_url = "/project/training_load/"
+  cta_url = "/project/cod/"
   cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-
+  cta_icon = "book-reader" 
+  
 
 [[item]]
-  title = "methods"
-  content = "development and evaluation of biomechanical tools"
+  title = "performance assessment"
+  content = "acquisition and interpretation of data"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "#404040"  # An HTML color value. Optional
-  overlay_img = "slider/methods.png"  # relative to `static/img/`
+  overlay_img = "slider/perfassessment.png"  # relative to `static/img/`
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   cta_label = "project details"
-  cta_url = "/project/methods/"
+  cta_url = "/project/perf_assess/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
 
 
 [[item]]
-  title = "clinical"
-  content = "studies with clinical populations or applications"
+  title = "asymmetry"
+  content = "asessment and monitoring"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "#404040"  # An HTML color value. Optional
-  overlay_img = "slider/clinical.png"  # relative to `static/img/`
+  overlay_img = "slider/asymmetry.png"  # relative to `static/img/`
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   cta_label = "project details"
-  cta_url = "/project/clinical/"
+  cta_url = "/project/asymmetry/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"  
 

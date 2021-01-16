@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Christopher Thomas
+title: Thomas Dos'Santos
 
 # Username (this should match the folder name)
 authors:
-- admin
+- tds
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Biomechanics Speicalist
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Aspire Academy
-  url: "https://www.aspire.qa"
+- name: Manchester Metropolitan University
+  url: "https://www.mmu.ac.uk/sport-and-exercise-sciences/our-staff/profile/index.php?id=4771"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coach, teacher, researcher.
+bio: 
 
 interests:
-- Change of direction ability (performance and monitoring)
-- Performance assessment
-- Muscle strength asymmetry
+- Change of direction biomechanics
+- Assessment and development of multidirectional speed
+- Mitigating non-contact anterior cruciate ligament injury risk (implications for screening and intervention)
 
 education:
   courses:
-  - course: PhD Sports Biomechanics and Strength & Conditioning
+  - course: PhD Sports Biomechanics
     institution: University of Salford
-    year: 2018
-  - course: MSc Strength & Conditioning
+    year: 2020
+  - course: MSc Strength and Conditioning
     institution: University of Salford
-    year: 2014
+    year: 2016
   - course: BSc (Hons) Sports Science (Strength and Conditioning)
     institution: University of Salford
-    year: 2010
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,14 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:christopher.thomas@aspire.qa"
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Christopher_Thomas17
+  link: "t.dossantos@mmu.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/christhomas7
-
+  link: https://twitter.com/TomDosSantos91
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Thomas_Dossantos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,9 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lead Researcher
-
+- Collaborators
 ---
-I’m a Strength & Conditioning Coach and Sports Biomechanics with a passion for sciences & innovation. I have over 10 years of experience working in team and individual sports. 
-
-I’m currently a Senior Biomechanist at an elite football academy. My role is to oversee all football biomechanics performance monitoring and research projects from creation to execution. I also collaborate on innovation initiatives across the academy.
