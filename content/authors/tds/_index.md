@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Change of direction biomechanics
-- Assessment and development of multidirectional speed
-- Mitigating non-contact anterior cruciate ligament injury risk (implications for screening and intervention)
+
 
 education:
   courses:

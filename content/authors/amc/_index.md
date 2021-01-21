@@ -21,8 +21,6 @@ organizations:
 bio: 
 
 interests:
-- Soccer 
-- Training Load Monitoring
 
 education:
   courses:

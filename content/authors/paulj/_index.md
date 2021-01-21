@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Biomechanics
-- Sports and Exercise Science
-- Strength and Conditioning
+
 
 education:
   courses:

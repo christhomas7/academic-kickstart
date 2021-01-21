@@ -21,9 +21,7 @@ organizations:
 bio:
 
 interests:
-- Performance Assessment
-- Strength and Power Development
-- Strength and Conditioning
+
 
 education:
   courses:

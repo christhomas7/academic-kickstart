@@ -21,7 +21,7 @@ organizations:
 bio: Coach, teacher, researcher.
 
 interests:
-- Change of direction ability (performance and monitoring)
+- Change of direction ability
 - Performance assessment
 - Muscle strength asymmetry
 
@@ -67,6 +67,6 @@ user_groups:
 - Lead Researcher
 
 ---
-I’m a Strength & Conditioning Coach and Sports Biomechanics with a passion for sciences & innovation. I have over 10 years of experience working in team and individual sports. 
+I’m an applied Sport Scientist with an interest in Sports Biomechanics and Strength & Conditioning, and a passion for sciences & innovation. I have over 10 years of experience working in team and individual sports. 
 
 I’m currently a Senior Biomechanist at an elite football academy. My role is to oversee all football biomechanics performance monitoring and research projects from creation to execution. I also collaborate on innovation initiatives across the academy.
